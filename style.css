@@ -1,0 +1,11 @@
+body {
+  background-color: rgb(34, 34, 34);
+}
+.card {
+  width: 90%;
+  max-width: 470px;
+  background: linear-gradient(135deg, #00feba, #5b548a);
+  color: #ffff;
+  margin: 100px auto 0;
+  
+}
