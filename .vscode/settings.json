@@ -18,5 +18,15 @@
     "titleBar.inactiveBackground": "#61dafb99",
     "titleBar.inactiveForeground": "#15202b99"
   },
-  "peacock.color": "#61dafb"
+  "peacock.color": "#61dafb",
+  "editor.cursorBlinking": "expand",
+  "editor.cursorSmoothCaretAnimation": "on",
+  "editor.smoothScrolling": true,
+  "workbench.list.smoothScrolling": true,
+  "terminal.integrated.smoothScrolling": true,
+  "editor.fontLigatures": true,
+  "editor.fontFamily": "'JetBrains Mono', Consolas, monospace",
+  "window.titleBarStyle": "custom",
+  "terminal.integrated.gpuAcceleration": "on"
 }
+
